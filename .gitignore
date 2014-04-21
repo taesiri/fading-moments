@@ -254,3 +254,5 @@ proguard/
 /*.userprefs
 /*.pidb
 /*.booproj
+
+armeabi-v7a
