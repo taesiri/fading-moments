@@ -17,6 +17,7 @@ namespace Assets.Scripts
 
         private void Start()
         {
+
         }
 
         private void Update()
